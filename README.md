@@ -14,6 +14,11 @@ pnpm dev
 bun dev
 ```
 
+You also need to install uuid to run the unique id function.
+```bash 
+npm i uuid
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
